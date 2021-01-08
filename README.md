@@ -11,6 +11,7 @@
 ###### Add `.dns-button` class on your button
 ###### Now add the classes accordingly, as your requirment
 ###### Below is the list of classes and what they do
+###### `<button class="dns-button blurIt "> hello world</button>`
 
 ## !important `.dns-button` class has black background color by default, you can change it anyways !
 
