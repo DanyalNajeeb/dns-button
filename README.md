@@ -1,5 +1,5 @@
-#DNS BUTTONS LIBRARY
-##How to Add DNS buttons in your project
+# DNS BUTTONS LIBRARY
+## How to Add DNS buttons in your project
 
 *. **step one**
 ###### Add dns-button.css in your header
@@ -12,7 +12,7 @@
 ###### Now add the classes accordingly, as your requirment
 ###### Below is the list of classes and what they do
 
-##!important .dns-button class has black background color by default, you can change it anyways !
+## !important .dns-button class has black background color by default, you can change it anyways !
 
 
 1. blurIt = It will blur your button.
@@ -20,7 +20,7 @@
 3. zoomInBlur = It will zoom in and blur on hover.
 4. zoomInBack = It will zoom in on hover.
 
-##More Buttons are under development.
+## More Buttons are under development.
 
 
 
