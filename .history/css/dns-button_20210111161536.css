@@ -131,9 +131,10 @@
     height: 100%;
     background-color: #0cf;
     border-radius: 10px;
+
     z-index: -2;
 }
-.dns-button.slideIn:before{
+.dns-button.slideIn::before{
     content: '';
     position: absolute;
     bottom: 0;

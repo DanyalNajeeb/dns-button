@@ -120,36 +120,8 @@
 
 .dns-button.slideIn{
     display: inline-block;
+  padding: .75rem 1.25rem;
   transition: all .3s;
-}
-.dns-button.slideIn::after{
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: #0cf;
-    border-radius: 10px;
-    z-index: -2;
-}
-.dns-button.slideIn:before{
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 0%;
-    height: 100%;
-    background-color: darken(#0cf, 15%);
-    transition: all .3s;
-    z-index: -1;
-}
-.dns-button.slideIn:hover{
-    color: #fff;
-    
-}
-.dns-button.slideIn:hover::before{
-    width: 100%;
 }
 @keyframes glowing {
     0% { background-position: 0 0; }
